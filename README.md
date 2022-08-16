@@ -39,4 +39,7 @@ Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 </p>
 
 ## :paperclip: How to reach me:
-
+<span>
+<a href="https://www.linkedin.com/in/ailinmacchiadev/"><img width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/61109.png"></a>
+<a href="mailto:macchia.ailin@gmail.com"><img width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/2258570.png"></a>
+</span>
