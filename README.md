@@ -1,7 +1,7 @@
 
 ![My Name is Ailin Macchia](https://github.com/AilinMacchia/AilinMacchia/blob/main/assets/AilinMacchia.gif)
 <h2 align="center">
-Full Stack Developer :heart: from Argentina to :earth_americas:
+Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 </h2>
 
 <p align="center">
@@ -19,3 +19,14 @@ Full Stack Developer :heart: from Argentina to :earth_americas:
   <br />
 </p>
 
+## :pushpin: My proyects
+
+*Falta Uno App*
+<p>
+  <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/faltaUno.png"></a>
+</p>
+
+*Countries App*
+<p>
+  <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/CountriesApp.png"></a>
+</p>
