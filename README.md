@@ -23,18 +23,20 @@ Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 
 *Falta Uno App*
 
-**Full Stack Web Developer - Falta Uno App**  
-<br/>                                                       
-*Henry Bootcamp, Buenos Aires, Argentina.*
-<br/>
 - Diseñar y desarrollar una App para el alquiler de canchas en complejos deportivos que incluía: Login, agenda, calendario, chat interno, notificaciones y pasarela de pagos.
 - Desarrollar la app en React con estilos en CSS, Bootstrap y Chakra-Ui, notificaciones con sendGrid y chat implementado con Socket.io. Back desarrollado en Node con Express, base de datos en PostgreSQL y Sequelize.
 
 <p>
   <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/FaltaUno.png"></a>
 </p>
+<a href="https://falta-uno-henry.vercel.app/"> Link al proyecto</a>
 
 *Countries App*
+
+- Diseñar y desarrollar una single-page application en la cual se pueda ver información de distintos países utilizando la api externa restcountries y a partir de ella poder, entre otras cosas: buscar paises, filtrarlos, ordenarlos y también crear actividades turísticas.
+
 <p>
   <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/CountriesApp.png"></a>
 </p>
+
+## :paperclip: How to reach me:
