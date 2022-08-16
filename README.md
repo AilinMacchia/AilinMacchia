@@ -5,7 +5,7 @@ Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 </h2>
 
 <p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <code><img width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
