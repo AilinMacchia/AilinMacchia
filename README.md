@@ -42,4 +42,5 @@ Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 <span>
 <a href="https://www.linkedin.com/in/ailinmacchiadev/"><img  height="40px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/61109.png"></a>
 <a href="mailto:macchia.ailin@gmail.com"><img  height="40px" width="40px"  src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/2258570.png"></a>
+<a href="https://ailinmacchia.github.io/Portafolio/#"><img  height="40px" width="40px"  src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/portafolio.png"></a>
 </span>
