@@ -22,8 +22,14 @@ Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 ## :pushpin: My proyects
 
 *Falta Uno App*
+
+**Full Stack Web Developer - Falta Uno App**                                                                Jul. 22 - 
+*Henry Bootcamp, Buenos Aires, Argentina.*
+-Diseñar y desarrollar una App para el alquiler de canchas en complejos deportivos que incluía: Login, agenda, calendario, chat interno, notificaciones y pasarela de pagos.
+-Desarrollar la app en React con estilos en CSS, Bootstrap y Chakra-Ui, notificaciones con sendGrid y chat implementado con Socket.io. Back desarrollado en Node con Express, base de datos en PostgreSQL y Sequelize.
+
 <p>
-  <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/faltaUno.png"></a>
+  <a><img src="https://github.com/AilinMacchia/AilinMacchia/blob/main/images/FaltaUno.png"></a>
 </p>
 
 *Countries App*
