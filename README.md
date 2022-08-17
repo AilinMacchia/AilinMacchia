@@ -4,6 +4,16 @@
 Full Stack Developer :sparkling_heart: from Argentina to :earth_americas:
 </h2>
 
+## :woman: About me
+<p>¿Quién soy? 
+⚡️Desarrolladora full stack con capacidad de realizar proyectos web, teniendo siempre en mente que sean escalables y modularizables para así poder construir en equipo.
+
+¿Por qué yo?
+⚡️Todos los miembros de esta comunidad tenemos excelentes habilidades técnicas, sin embargo conmigo obtendrás una desarrolladora curiosa con gran capacidad de resolución de problemas y sobre todo una desarrolladora siempre dispuesta a enseñar y aprender de los demás.
+
+¿Mi historia laboral?
+⚡️Mi experiencia ha sido principalmente en el ámbito académico, durante 3 años me desempeñe como estudiante de ingeniería Industrial donde aprendí fuertes bases en pensamiento lógico, y manejo de estructura de datos. También complete el Bootcamp teórico-práctico de Henry, donde pude ejercitar mis capacidades técnicas, pero sobre todo mis habilidades blandas como desarrolladora.</p>
+
 <p align="center">
   <img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg">
   <img width="10%" height="50px" src="https://github.com/AilinMacchia/AilinMacchia/blob/main/logos/javascript-1.svg">
